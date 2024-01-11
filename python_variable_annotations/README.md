@@ -1,0 +1,1 @@
+This readme file is for python variable abotations of Holberton²
