@@ -1,0 +1,1 @@
+This readme file is for NoSQL project of Holberton.
