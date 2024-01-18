@@ -4,12 +4,9 @@ Write a function named index_range
 that takes two integer arguments page and page_size
 """
 
-index_range = __import__('0-simple_helper_function').index_range
 
-res = index_range(1, 7)
-print(type(res))
-print(res)
-
-res = index_range(page=3, page_size=15)
-print(type(res))
-print(res)
+def index_range(page, page_size):
+    """ return in a list for those
+    particular pagination parameters."""
+    start_index = (page - 1) * page_size
+    return (start_index, start_index + page_size)
