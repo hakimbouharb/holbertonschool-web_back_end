@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 """
-Main file
+Write a function named index_range
+that takes two integer arguments page and page_size
 """
 
 index_range = __import__('0-simple_helper_function').index_range
