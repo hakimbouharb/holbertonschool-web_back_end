@@ -1,1 +1,1 @@
-This readme file is for ES6-classes project of Holberton.
+hello world
