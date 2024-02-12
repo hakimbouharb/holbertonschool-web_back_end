@@ -1,0 +1,1 @@
+This readme file os for ES6 peomise Project of Holberton.
